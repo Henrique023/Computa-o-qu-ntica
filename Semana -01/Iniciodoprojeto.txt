@@ -1,8 +1,0 @@
-Pesquisar o referencial Teórico (Semana do plano de aula)
-Coletar artigos , livros e materiais 
-Estudar os conceitos fundamentais: qubits,superposição, emaranhamento e interferência 
-Explorar a diferença entre processadores quântico e convencionais.
-produzir um relátorio inicial com as informações coletada
-
-
-Fizemos uma pesquisa aprofundada a cerca do tema onde  estudamos uma pesquisa feita pela IBM: https://www.ibm.com/br-pt/topics/quantum-computing, dentro desse link está um estudo breve a respeito da computaão quântica 
